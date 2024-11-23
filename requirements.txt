@@ -1,0 +1,9 @@
+langchain
+python-dotenv
+langchain_community
+beautifulsoup4
+faiss-cpu
+openai
+streamlit
+langchain_openai
+openpyxl

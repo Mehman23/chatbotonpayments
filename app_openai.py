@@ -48,7 +48,7 @@ if not st.session_state.user_info_submitted:
                 st.warning("Məlumatlarızı daxil edin")
 
     st.markdown("<hr>", unsafe_allow_html=True)
-    st.markdown("Created by **Azərbaycan Respublikasının Mərkəzi Bankı** © 2024", unsafe_allow_html=True)
+    st.markdown("Created by **test** © 2024", unsafe_allow_html=True)
 
 else:
     st.title("💬 AI Lawyer Chatbot")
